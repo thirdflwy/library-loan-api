@@ -182,5 +182,4 @@ contoh response `DELETE /api/loans/7`:
 
 ## Link hasil deployment Vercel
 
-'https://github.com/thirdflwy/library-loan-api.git'
-`https://library-loan-api-mu.vercel.app`
+'https://library-loan-api-mu.vercel.app'
